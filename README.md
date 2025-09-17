@@ -15,7 +15,7 @@ Meus scripts de estudo em Python. Aqui está a evolução do meu conhecimento na
 
 
 ### 17/09/2025
-#### 🐍 Curso de Python (Geek University)
+#### 🐍 Curso de Python
 - ✅ **Recebendo dados do usuário**: Uso da função `input()` para interação básica.
 - ✅ **Tipos de dados fundamentais**: Estudo e prática com:
   - `int` (números inteiros)
