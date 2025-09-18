@@ -1,8 +1,9 @@
 #🐍 Meu Aprendizado em Python
 
-!https://img.shields.io/badge/Python-3.x-blue?logo=python
-!https://img.shields.io/badge/Status-Em%2520Desenvolvimento-brightgreen
-!https://img.shields.io/github/last-commit/hpirola/meu-aprendizado-python
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen)
+![Último Commit](https://img.shields.io/github/last-commit/hpirola/meu-aprendizado-python)
+
 
 Repositório dedicado ao meu aprendizado e evolução na linguagem Python, contendo exercícios, projetos e anotações organizados por seções de estudo.
 
