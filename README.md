@@ -14,6 +14,9 @@ Meus scripts de estudo em Python. Aqui está a evolução do meu conhecimento na
 - 🔄 Próximo passo: Estudo e Compreensaõ de Dir e Help no Python.
 
 
+## 📍 Progresso Diário
+
+
 ### 17/09/2025
 #### 🐍 Curso de Python
 - ✅ **Recebendo dados do usuário**: Uso da função `input()` para interação básica.
