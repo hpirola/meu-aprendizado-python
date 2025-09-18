@@ -6,19 +6,6 @@
 
 Repositório dedicado ao meu aprendizado e evolução na linguagem Python, contendo exercícios, projetos e anotações organizados por seções de estudo.
 
-## 📚 Estrutura do Repositório
-meu-aprendizado-python/
-│
-├── secao-2/ # Fundamentos básicos do Python
-├── secao-3/ # Exercícios com entrada de dados e operações
-├── secao-4/ # [Próximos tópicos]
-├── secao-5/ # [Próximos tópicos]
-├── projetos/ # Projetos práticos
-├── anotacoes/ # Notas e resumos importantes
-└── README.md # Este arquivo
-
-text
-
 ## 🎯 Objetivos
 
 - Aprender Python de forma estruturada e progressiva
