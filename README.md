@@ -13,14 +13,6 @@ Repositório dedicado ao meu aprendizado e evolução na linguagem Python, conte
 - Praticar com exercícios variados e desafiadores
 - Construir uma base sólida para desenvolvimento de projetos
 
-## 🛠 Tecnologias Utilizadas
-
-- **Python 3.x**
-- **Tratamento de exceções**
-- **Input/Output de dados**
-- **Operações matemáticas**
-- **Git para controle de versão**
-
 ## 📈 Progresso
 
 | Seção | Tópicos Abordados | Status |
@@ -30,21 +22,6 @@ Repositório dedicado ao meu aprendizado e evolução na linguagem Python, conte
 | Seção 4 | Estruturas de controle (if/else, loops) | 🚧 Em Andamento |
 | Seção 5 | Funções, módulos | ⏳ A Fazer |
 
-## 🚀 Como Executar os Exercícios
-
-```bash
-# Clone o repositório
-git clone https://github.com/hpirola/meu-aprendizado-python.git
-
-# Navegue até a pasta desejada
-cd meu-aprendizado-python/secao-3/
-
-# Execute qualquer exercício
-python exercicio_1.py
-
-📊 Estatísticas do Repositório
-https://img.shields.io/github/languages/count/hpirola/meu-aprendizado-python
-https://img.shields.io/github/commit-activity/m/hpirola/meu-aprendizado-python
 
 🤝 Contribuições
 Este é um repositório de aprendizado pessoal, mas sugestões e dicas são sempre bem-vindas!
@@ -52,4 +29,4 @@ Este é um repositório de aprendizado pessoal, mas sugestões e dicas são semp
 📞 Contato
 GitHub: @hpirola
 
-LinkedIn: [Seu perfil] (adicione quando quiser)
+LinkedIn: www.linkedin.com/in/henrique-silva-pirola-073676217
