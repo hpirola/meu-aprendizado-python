@@ -1,4 +1,5 @@
 🐍 Meu Aprendizado em Python
+
 https://img.shields.io/badge/Python-3.x-blue?logo=python
 https://img.shields.io/badge/Status-Em%2520Desenvolvimento-brightgreen
 https://img.shields.io/github/last-commit/hpirola/meu-aprendizado-python
