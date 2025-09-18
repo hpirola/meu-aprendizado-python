@@ -21,9 +21,13 @@ Construir uma base sólida para desenvolvimento de projetos
 ###📈 PROGRESSO
 
 Seção	Tópicos Abordados	Status
+
 Seção 2	Fundamentos básicos, sintaxe	✅ Completo
+
 Seção 3	Entrada de dados, tratamento de erros, operações	✅ Completo
+
 Seção 4	Estruturas de controle (if/else, loops)	🚧 Em Andamento
+
 Seção 5	Funções, módulos	⏳ A Fazer
 
 
