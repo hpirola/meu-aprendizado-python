@@ -1,13 +1,13 @@
-🐍 Meu Aprendizado em Python
+#🐍 Meu Aprendizado em Python
 
-https://img.shields.io/badge/Python-3.x-blue?logo=python
-https://img.shields.io/badge/Status-Em%2520Desenvolvimento-brightgreen
-https://img.shields.io/github/last-commit/hpirola/meu-aprendizado-python
+!https://img.shields.io/badge/Python-3.x-blue?logo=python
+!https://img.shields.io/badge/Status-Em%2520Desenvolvimento-brightgreen
+!https://img.shields.io/github/last-commit/hpirola/meu-aprendizado-python
 
 Repositório dedicado ao meu aprendizado e evolução na linguagem Python, contendo exercícios, projetos e anotações organizados por seções de estudo.
 
-📚 Estrutura do Repositório
-text
+#📚 Estrutura do Repositório
+
 meu-aprendizado-python/
 │
 ├── secao-2/          # Fundamentos básicos do Python
@@ -17,7 +17,9 @@ meu-aprendizado-python/
 ├── projetos/         # Projetos práticos
 ├── anotacoes/        # Notas e resumos importantes
 └── README.md         # Este arquivo
-🎯 Objetivos
+
+#🎯 Objetivos
+
 Aprender Python de forma estruturada e progressiva
 
 Desenvolver lógica de programação
@@ -26,7 +28,8 @@ Praticar com exercícios variados e desafiadores
 
 Construir uma base sólida para desenvolvimento de projetos
 
-🛠 Tecnologias Utilizadas
+#🛠 Tecnologias Utilizadas
+
 Python 3.x
 
 Tratamento de exceções
@@ -37,14 +40,16 @@ Operações matemáticas
 
 Git para controle de versão
 
-📈 Progresso
+#📈 Progresso
+
 Seção	Tópicos Abordados	Status
 Seção 2	Fundamentos básicos, sintaxe	✅ Completo
 Seção 3	Entrada de dados, tratamento de erros, operações	✅ Completo
 Seção 4	Estruturas de controle (if/else, loops)	🚧 Em Andamento
 Seção 5	Funções, módulos	⏳ A Fazer
-🚀 Como Executar os Exercícios
-bash
+
+#🚀 Como Executar os Exercícios
+
 # Clone o repositório
 git clone https://github.com/hpirola/meu-aprendizado-python.git
 
@@ -53,7 +58,8 @@ cd meu-aprendizado-python/secao-3/
 
 # Execute qualquer exercício
 python exercicio_1.py
-💡 Próximos Passos
+
+#💡 Próximos Passos
 Completar a Seção 4 (Estruturas de Controle)
 
 Iniciar a Seção 5 (Funções e Módulos)
@@ -64,14 +70,14 @@ Implementar testes unitários
 
 Explorar bibliotecas populares (Pandas, NumPy, Flask)
 
-📊 Estatísticas do Repositório
+#📊 Estatísticas do Repositório
 https://img.shields.io/github/languages/count/hpirola/meu-aprendizado-python
 https://img.shields.io/github/commit-activity/m/hpirola/meu-aprendizado-python
 
-🤝 Contribuições
+#🤝 Contribuições
 Este é um repositório de aprendizado pessoal, mas sugestões e dicas são sempre bem-vindas!
 
-📞 Contato
+#📞 Contato
 GitHub: @hpirola
 
 LinkedIn: www.linkedin.com/in/henrique-silva-pirola-073676217
