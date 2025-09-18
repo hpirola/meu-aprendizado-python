@@ -7,7 +7,7 @@
 
 Repositório dedicado ao meu aprendizado e evolução na linguagem Python, contendo exercícios, projetos e anotações organizados por seções de estudo.
 
-##📚 Estrutura do Repositório
+###📚 Estrutura do Repositório
 
 meu-aprendizado-python/
 │
@@ -26,7 +26,7 @@ meu-aprendizado-python/
 └── README.md/# Este arquivo
 
 
-#🎯 Objetivos
+###🎯 Objetivos
 
 
 Aprender Python de forma estruturada e progressiva
@@ -38,7 +38,7 @@ Praticar com exercícios variados e desafiadores
 Construir uma base sólida para desenvolvimento de projetos
 
 
-#🛠 TECNOLOGIAS UTILIZADAS
+###🛠 TECNOLOGIAS UTILIZADAS
 
 
 Python 3.x
@@ -52,7 +52,7 @@ Operações matemáticas
 Git para controle de versão
 
 
-#📈 Progresso
+###📈 Progresso
 
 Seção	Tópicos Abordados	Status
 Seção 2	Fundamentos básicos, sintaxe	✅ Completo
@@ -60,19 +60,7 @@ Seção 3	Entrada de dados, tratamento de erros, operações	✅ Completo
 Seção 4	Estruturas de controle (if/else, loops)	🚧 Em Andamento
 Seção 5	Funções, módulos	⏳ A Fazer
 
-🚀 Como Executar os Exercícios
-
-# Clone o repositório
-git clone https://github.com/hpirola/meu-aprendizado-python.git
-
-# Navegue até a pasta desejada
-cd meu-aprendizado-python/secao-3/
-
-# Execute qualquer exercício
-python exercicio_1.py
-
-
-##💡 Próximos Passos
+###💡 Próximos Passos
 
 Completar a Seção 4 (Estruturas de Controle)
 
@@ -85,13 +73,13 @@ Implementar testes unitários
 Explorar bibliotecas populares (Pandas, NumPy, Flask)
 
 
-##📊 Estatísticas do Repositório
+###📊 Estatísticas do Repositório
 
 https://img.shields.io/github/languages/count/hpirola/meu-aprendizado-python
 https://img.shields.io/github/commit-activity/m/hpirola/meu-aprendizado-python
 
 
-##🤝 Contribuições
+###🤝 Contribuições
 
 Este é um repositório de aprendizado pessoal, mas sugestões e dicas são sempre bem-vindas!
 
