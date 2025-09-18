@@ -1,0 +1,9 @@
+# 1 - Faça um programa que leia um número inteiro e imprima-o:
+print('EXERCÍCIO 1')
+
+try:
+    numero = int(input('Digite um numero inteiro: '))
+    print(f'O número digitado foi {numero}')
+except ValueError:
+    print('Erro! digite apenas números inteiros')
+    
