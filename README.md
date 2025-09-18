@@ -41,16 +41,6 @@ cd meu-aprendizado-python/secao-3/
 
 # Execute qualquer exercício
 python exercicio_1.py
-💡 Próximos Passos
-Completar a Seção 4 (Estruturas de Controle)
-
-Iniciar a Seção 5 (Funções e Módulos)
-
-Adicionar projetos práticos
-
-Implementar testes unitários
-
-Explorar bibliotecas populares (Pandas, NumPy, Flask)
 
 📊 Estatísticas do Repositório
 https://img.shields.io/github/languages/count/hpirola/meu-aprendizado-python
