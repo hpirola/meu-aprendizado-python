@@ -1,37 +1,78 @@
-# meu-aprendizado-python
-Meus scripts de estudo em Python. Aqui está a evolução do meu conhecimento na linguagem partindo do básico.
+# 🐍 Meu Aprendizado em Python
 
-## Objetivos  
-- Aprender Python do zero ao avançado.  
-- Automatizar tarefas com scripts.  
-- Explorar IA, Machine Learning e automação.
-- 
-## 📍 Progresso Diário
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen)
+![Último Commit](https://img.shields.io/github/last-commit/hpirola/meu-aprendizado-python)
 
-### 16/09/2025
-- ✅ Estudos e ambientação inicial no PyCharm e estudos sobre **PEP8**.
-- ✅ Estudada primeira aula de **Lógica de Algoritmos** na faculdade.
-- 🔄 Próximo passo: Estudo e Compreensaõ de Dir e Help no Python.
+Repositório dedicado ao meu aprendizado e evolução na linguagem Python, contendo exercícios, projetos e anotações organizados por seções de estudo.
 
+## 📚 Estrutura do Repositório
+meu-aprendizado-python/
+│
+├── secao-2/ # Fundamentos básicos do Python
+├── secao-3/ # Exercícios com entrada de dados e operações
+├── secao-4/ # [Próximos tópicos]
+├── secao-5/ # [Próximos tópicos]
+├── projetos/ # Projetos práticos
+├── anotacoes/ # Notas e resumos importantes
+└── README.md # Este arquivo
 
-## 📍 Progresso Diário
+text
 
+## 🎯 Objetivos
 
-### 17/09/2025
-#### 🐍 Curso de Python
-- ✅ **Recebendo dados do usuário**: Uso da função `input()` para interação básica.
-- ✅ **Tipos de dados fundamentais**: Estudo e prática com:
-  - `int` (números inteiros)
-  - `float` (números decimais)
-  - `bool` (valores booleanos - True/False)
-  - `str` (strings/texto)
-- ✅ **Escopo de variáveis**: Compreensão de onde as variáveis existem e são acessíveis no código.
-- ✅ **Exercícios práticos** para consolidar o conhecimento.
+- Aprender Python de forma estruturada e progressiva
+- Desenvolver lógica de programação
+- Praticar com exercícios variados e desafiadores
+- Construir uma base sólida para desenvolvimento de projetos
 
-#### 🏭 Graduação em Tecnologia em Automação Industrial
-- ✅ **Aula Introdutória**: "O Tecnólogo em Automação Industrial"
-  - Evolução da Automação Industrial.
-  - Conceitos Básicos de Automação e Processos.
-  - Linhas de Fluxo Automatizadas.
-  - Estratégias de Automação.
-  - Introdução à Automação nas Relações Empresariais.
+## 🛠 Tecnologias Utilizadas
+
+- **Python 3.x**
+- **Tratamento de exceções**
+- **Input/Output de dados**
+- **Operações matemáticas**
+- **Git para controle de versão**
+
+## 📈 Progresso
+
+| Seção | Tópicos Abordados | Status |
+|-------|-------------------|--------|
+| Seção 2 | Fundamentos básicos, sintaxe | ✅ Completo |
+| Seção 3 | Entrada de dados, tratamento de erros, operações | ✅ Completo |
+| Seção 4 | Estruturas de controle (if/else, loops) | 🚧 Em Andamento |
+| Seção 5 | Funções, módulos | ⏳ A Fazer |
+
+## 🚀 Como Executar os Exercícios
+
+```bash
+# Clone o repositório
+git clone https://github.com/hpirola/meu-aprendizado-python.git
+
+# Navegue até a pasta desejada
+cd meu-aprendizado-python/secao-3/
+
+# Execute qualquer exercício
+python exercicio_1.py
+💡 Próximos Passos
+Completar a Seção 4 (Estruturas de Controle)
+
+Iniciar a Seção 5 (Funções e Módulos)
+
+Adicionar projetos práticos
+
+Implementar testes unitários
+
+Explorar bibliotecas populares (Pandas, NumPy, Flask)
+
+📊 Estatísticas do Repositório
+https://img.shields.io/github/languages/count/hpirola/meu-aprendizado-python
+https://img.shields.io/github/commit-activity/m/hpirola/meu-aprendizado-python
+
+🤝 Contribuições
+Este é um repositório de aprendizado pessoal, mas sugestões e dicas são sempre bem-vindas!
+
+📞 Contato
+GitHub: @hpirola
+
+LinkedIn: [Seu perfil] (adicione quando quiser)
