@@ -23,7 +23,8 @@ Repositório dedicado ao meu aprendizado e evolução na linguagem Python, conte
 | Seção 5 | Funções, módulos | ⏳ A Fazer |
 
 
-🤝 Contribuições
+🤝 Contribuições:
+
 Este é um repositório de aprendizado pessoal, mas sugestões e dicas são sempre bem-vindas!
 
 📞 Contato
