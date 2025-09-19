@@ -28,17 +28,17 @@ Seção 2	Fundamentos básicos, sintaxe	✅ Completo
 
 Seção 3	Entrada de dados, tratamento de erros, operações	✅ Completo
 
-Seção 4	Estruturas de controle (if/else, loops)	🚧 Em Andamento
+Seção 4	Estruturas lógicas e condicionais (if/else/elif/is/and/not/or)	✅  Completo
 
-Seção 5	Funções, módulos	⏳ A Fazer
+Seção 5	Estruturas de repetição (loop for/loop while/break/range)	⏳ Em andamento
 
 
 
 #💡 PRÓXIMOS PASSOS
 
-Completar a Seção 4 (Estruturas de Controle)
+Completar a Seção 5 (Estruturas de repetição)
 
-Iniciar a Seção 5 (Funções e Módulos)
+Iniciar a Seção 6 (Coleções Python)
 
 
 
