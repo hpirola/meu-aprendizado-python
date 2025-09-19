@@ -1,0 +1,14 @@
+# 2. Faça um programa que leia um número inteiro fornecido pelo usuário. Se esse número for positivo, calcule
+# a raiz quadrada do número e apresente-a. Se o número for negativo, mostre uma mensagem dizendo que o
+# número é inválido.
+
+print("\nRaiz Quadrada de um número\n")
+
+num3 = int(input('Escolha e digite um número inteiro: '))
+
+print(f'\no número escolhido foi: {num3}')
+
+if num3 < 0:
+    print('\nO número escolhido é inválido. O número precisa ser maior que 0')
+else:
+    print(f'\nA raiz quadrada de {num3} é: {num3**(1/2)}')
