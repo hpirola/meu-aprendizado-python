@@ -22,7 +22,7 @@ Construir uma base sólida para desenvolvimento de projetos
 
 #📈 PROGRESSO
 
-Seção	Tópicos Abordados	Status
+Seção	1 Apresentação ✅ Completo
 
 Seção 2	Fundamentos básicos, sintaxe	✅ Completo
 
