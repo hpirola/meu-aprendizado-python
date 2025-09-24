@@ -30,15 +30,16 @@ Seção 3	Entrada de dados, tratamento de erros, operações	✅ Completo
 
 Seção 4	Estruturas lógicas e condicionais (if/else/elif/is/and/not/or)	✅  Completo
 
-Seção 5	Estruturas de repetição (loop for/loop while/break/range)	⏳ Em andamento
+Seção 5	Estruturas de repetição (loop for/loop while/break/range)	✅ Completo
 
+Seção 6 Coleções Python (Listas/Tuplas/Dicionários/Mapas/Conjuntos) ⏳ Em andamento
 
 
 #💡 PRÓXIMOS PASSOS
 
-Completar a Seção 5 (Estruturas de repetição)
+Completar a Seção 6 (Coleções Python)
 
-Iniciar a Seção 6 (Coleções Python)
+Iniciar a Seção 7 (Funções)
 
 
 
