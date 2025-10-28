@@ -1,0 +1,84 @@
+import oracledb
+import getpass
+import os
+from datetime import datetime
+from openpyxl import Workbook
+from email_com_anexo import enviar_email_com_anexo
+
+print("--- INICIANDO ROBÔ DE RELATÓRIO DE SALÁRIOS ---")
+
+
+DB_USER = # user db
+DB_DSN = # 
+
+
+connection = None
+cursor = None
+try:
+    db_password = getpass.getpass(prompt=f'Digite a senha do usuário {DB_USER} do Oracle: ')
+    print(f"\n🔌 Conectando ao banco de dados Oracle ({DB_DSN})...")
+    connection = oracledb.connect(user=DB_USER, password=db_password, dsn=DB_DSN)
+    print("✅ Conexão bem-sucedida!")
+    cursor = connection.cursor()
+
+    
+    sql_query = """
+        SELECT first_name, last_name, job_id, salary
+        FROM employees
+        WHERE (job_id LIKE '%_MGR' OR job_id LIKE '%_REP') 
+          AND salary > 8000                           
+        ORDER BY salary DESC
+    """
+
+    print("\n🔍 Executando a consulta SQL...")
+    cursor.execute(sql_query)
+    print("✅ Consulta executada.")
+
+    
+    print("📊 Coletando os resultados...")
+
+    resultados = cursor.fetchall()
+    print(f"✅ {len(resultados)} registros encontrados.")
+
+    print("⚙️ Gerando o relatório Excel...")
+    wb = Workbook()  
+    ws = wb.active 
+    ws.title = "Relatorio Salarios Altos"  # Renomeia a planilha
+
+    cabecalho = ["Nome", "Sobrenome", "Cargo", "Salário"]
+    ws.append(cabecalho)
+    print(" - Cabeçalho adicionado.")
+
+    for linha_de_dados in resultados:
+        ws.append(linha_de_dados)
+
+    print(f" - {len(resultados)} linhas de dados adicionadas.")
+
+    
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    nome_arquivo_excel = f"relatorio_salarios_{timestamp}.xlsx"
+
+    wb.save(nome_arquivo_excel)
+    print(f"✅ Relatório salvo com sucesso como '{nome_arquivo_excel}'!")
+
+    caminho_completo_arquivo = os.path.abspath(nome_arquivo_excel)
+
+
+    enviar_email_com_anexo('hpirola@gmail.com', 'Relatório Salários Altos',
+                           'Segue em anexo o relatório solicitado', caminho_completo_arquivo)
+
+
+
+except Exception as e:
+    print(f"❌ Erro Crítico: Ocorreu um erro durante a execução.")
+    print(f"   Detalhe do erro: {e}")
+
+finally:
+    if cursor:
+        cursor.close()
+        print("\n🧹 Cursor fechado.")
+    if connection:
+        connection.close()
+        print("🔌 Conexão com o banco de dados fechada.")
+
+print("\n--- ROBÔ FINALIZADO ---")
