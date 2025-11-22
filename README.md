@@ -12,4 +12,4 @@ Collection of Python scripts and projects for data analysis, automation, and web
 Python, Pandas, Requests, BeautifulSoup, OS
 
 ## 📫 Contact
-[LinkedIn](www.linkedin.com/in/henrique-silva-pirola-073676217)
+[LinkedIn] www.linkedin.com/in/henrique-silva-pirola-073676217
