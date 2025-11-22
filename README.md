@@ -1,15 +1,12 @@
-# Python Projects Portfolio
+# Data Analysis Projects
 
-## 🚀 About
-Collection of Python scripts and projects for data analysis, automation, and web scraping.
+## 🎯 About
+Practical data analysis projects using Python, Pandas, and data visualization.
 
-## 📁 Projects
-- **Data Analysis**: COVID data analysis, sales reports
-- **Automation**: File organization, system tasks
-- **Web Scraping**: Price tracking, data extraction
+## 📊 Projects
+- **Sales Data Analysis**: Revenue trends and product performance
+- **COVID Dashboard**: Pandemic data analysis and visualization  
+- **Customer Segmentation**: RFM analysis and clustering
 
-## 🛠️ Technologies
-Python, Pandas, Requests, BeautifulSoup, OS
-
-## 📫 Contact
-[LinkedIn] www.linkedin.com/in/henrique-silva-pirola-073676217
+## 🛠️ Tech Stack
+Python, Pandas, Matplotlib, Seaborn, Jupyter
